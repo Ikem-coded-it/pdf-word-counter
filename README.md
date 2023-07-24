@@ -1,6 +1,6 @@
 # pdf-word-counter
 
-Counts and tells the word with highest occurance in a pdf document.
+Retrieves the 10 keywords used in a pdf document based on the words used the most.
 
 # INSTRUCTIONS
 
